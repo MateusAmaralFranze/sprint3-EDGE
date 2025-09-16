@@ -1,3 +1,11 @@
+Mateus Amaral Franze RM562334
+Felipe Sumida RM563082
+Henrique de Lima RM561876
+
+
+
+
+
 ### README do Projeto: Sistema de Monitoramento de Pulso com ESP32
 
 #### Visão Geral
